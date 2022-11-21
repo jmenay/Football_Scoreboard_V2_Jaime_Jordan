@@ -1,3 +1,7 @@
+// Foodball_Scoreboard_Jaime Jordan 
+// Class: COSC 1437 Date: 11-20-22
+// Teacher: Dr. Tyson McMillan
+
 //Origin = Dr. Tyson McMillan a Soccer Scoreboard using *Updates 4-21-2021, 04-07-2022 - Dr_T
 //Dr_T teaching Object Oriented Scoreboard in C++ 
 
